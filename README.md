@@ -7,7 +7,7 @@
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Tech%20Skills&fontSize=30&fontColor=950306&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Tech%20Skills&fontSize=30&fontColor=000080&fontAlign=50&animation=twinkling)
 
 <br>
 
@@ -36,7 +36,7 @@
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Github%20Stats&fontSize=30&fontColor=950306&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Github%20Stats&fontSize=30&fontColor=000080&fontAlign=50&animation=twinkling)
 
 <br>
 
@@ -49,7 +49,7 @@
 
 <br>
 
-![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Let's%20Connect&fontSize=30&fontColor=950306&fontAlign=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=transparent&height=40&text=Let's%20Connect&fontSize=30&fontColor=000080&fontAlign=50&animation=twinkling)
 
 
 <div align="center">
@@ -72,5 +72,5 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/brian-ron
 <br>
 
 <h3 align="left">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:590d22,50:800f2f,75:590d22,100:950306&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007bff,50:0056b3,75:003366,100:000080&height=100&section=footer"/>
 </p>
