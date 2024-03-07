@@ -41,7 +41,7 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=farouk26&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=20&order=3" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=bryoeckoo&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=20&order=3" height="200" alt="streak graph"  />
 </div>
 <br>
 
