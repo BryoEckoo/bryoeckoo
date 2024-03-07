@@ -56,7 +56,7 @@
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/brian-rono-b8aa18266/) for potential collaborations. I welcome every opportunity to network with like-minded professionals in this field.
+Feel free to connect with me on <a href="https://www.linkedin.com/in/brian-rono-b8aa18266/" target="_blank">LinkedIn</a> for potential collaborations. I welcome every opportunity to network with like-minded professionals in this field.
 
 ---
 
