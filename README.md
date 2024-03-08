@@ -66,7 +66,7 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/brian-rono-
 <br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=farouk26.farouk26&left_color=grey"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=bryoeckoo.bryoeckoo&left_color=grey"  />
 </div>
 
 <br>
