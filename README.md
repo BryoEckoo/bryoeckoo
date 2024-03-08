@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:007bff,50:0056b3,75:003366,100:000080&fontColor=f1faee&height=300&section=header&text=Brian%20Rono&fontSize=60&capsule_render&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer.&fontAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:007bff,50:0056b3,75:003366,100:000080&fontColor=f1faee&height=300&section=header&text=Brian%20Rono&fontSize=60&capsule_render&animation=fadeIn&fontAlignY=40&desc=Software%20Engineer&fontAlignY=80)
 
 
 
