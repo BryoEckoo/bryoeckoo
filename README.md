@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:007bff,50:0056b3,75:003366,100:000080&fontColor=f1faee&height=300&section=header&text=Brian%20Rono&fontSize=60&capsule_render&animation=fadeIn&fontAlignY=40&desc=Front-End%20Web%20Developer.&fontAlignY=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:007bff,50:0056b3,75:003366,100:000080&fontColor=f1faee&height=300&section=header&text=Brian%20Rono&fontSize=60&capsule_render&animation=fadeIn&fontAlignY=40&desc=Software%Engineer.&fontAlignY=80)
 
 
 
 
-<h3 align="center">I'm a Front-End Web Developer with a passion for crafting user-friendly and visually appealing websites. Proficient in JavaScript, React.js, Next.js, TailwindCSS & Firebase, with a keen eye for detail and a dedication to delivering a seamless user experience. I thrive in collaborative environments and have a strong ability to transform design concepts into responsive and interactive web applications. Constantly staying updated with the latest web development trends and technologies to ensure cutting-edge solutions.</p>
+<h3 align="center">I am a dedicated software engineer with a passion for creating responsive and user-friendly websites and applications. With expertise in both front-end and back-end development, I specialize in crafting seamless digital experiences using Vue.js, React, and Django frameworks. My proficiency extends to a variety of technologies including JavaScript, MongoDB, Node.js, Express.js, MySQL, and Python Django.I love taking on challenging projects and am committed to continuous learning to stay updated with the latest technologies. With my enthusiasm, creativity, and attention to detail, I ensure that every project I work on is executed to perfection. I'm excited about making a positive impact in the world of software engineering.</p>
 
 <br>
 
