@@ -30,7 +30,7 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/node.js" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/express.js" height="40" alt="css3 logo"  />
+  <img src="https://cdn.simpleicons.org/express" height="40" alt="css3 logo"  />
   <img width="12" />
 </div>
 <br>
