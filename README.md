@@ -32,7 +32,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/django" height="40" alt="css3 logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="css3 logo"  />
   <img width="12" />
 </div>
 <br>
