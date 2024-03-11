@@ -69,7 +69,7 @@ Feel free to connect with me on <a href="https://www.linkedin.com/in/brian-rono-
 <br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nyatado98.nyatado98&left_color=grey"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id?nyatado98.nyatado98&left_color=grey"  />
 </div>
 
 <br>
