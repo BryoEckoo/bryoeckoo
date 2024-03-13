@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center">I am a dedicated software engineer with a passion for creating responsive and user-friendly websites and applications. I'm skilled in both front-end and back-end development, using frameworks like Vue.js, React, and Django. My proficiency extends to a variety of technologies including JavaScript, MongoDB, Node.js, Express.js, MySQL, and Python Django.I love taking on challenging projects and am committed to continuous learning to stay updated with the latest technologies. With my enthusiasm, creativity, and attention to detail, I ensure that every project I work on is executed to perfection. I'm excited about making a positive impact in the world of software engineering.</p>
+<h3 align="center">I am a dedicated software engineer with a passion for creating responsive and user-friendly websites and applications. I'm skilled in web front-end development, using frameworks like Vue.js, React, and Django. My proficiency extends to a variety of technologies including JavaScript, MongoDB, Node.js, Express.js, MySQL, and Python Django.I love taking on challenging projects and am committed to continuous learning to stay updated with the latest technologies. With my enthusiasm, creativity, and attention to detail, I ensure that every project I work on is executed to perfection. I'm excited about making a positive impact in the world of software engineering.</p>
 
 <br>
 
